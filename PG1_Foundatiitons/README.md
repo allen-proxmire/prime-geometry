@@ -138,7 +138,8 @@ and the **energy–curvature–action hierarchy**.
 ## Citation
 
 If you use this material in derivative work, please cite the DOI associated with
-this release (Zenodo will generate one upon tagged release).
+this release.
+https://zenodo.org/badge/1107934958.svg
 
 ---
 
