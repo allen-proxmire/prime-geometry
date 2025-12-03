@@ -65,6 +65,3 @@ Cramér and permuted gaps scatter broadly and fail to reproduce this structure.
 
 ## 📁 Contents
 
-- paper
-- code
-- figures
