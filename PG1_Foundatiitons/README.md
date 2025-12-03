@@ -139,7 +139,7 @@ and the **energy–curvature–action hierarchy**.
 
 If you use this material in derivative work, please cite the DOI associated with
 this release.
-https://zenodo.org/badge/1107934958.svg
+[![DOI](https://zenodo.org/badge/1107934958.svg)](https://doi.org/10.5281/zenodo.17795904)
 
 ---
 
