@@ -1,5 +1,7 @@
 # Prime Geometry II: Curvature Dynamics of Prime Gaps
 
+If you use this material in derivative work, please cite the DOI associated with
+this release.
 [![DOI](https://zenodo.org/badge/1107934958.svg)](https://doi.org/10.5281/zenodo.17795904)
 
 This folder contains all materials for **Prime Geometry II**, the second paper in the Prime Geometry series.  
