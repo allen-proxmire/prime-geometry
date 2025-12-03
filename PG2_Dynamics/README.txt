@@ -1,6 +1,6 @@
 # Prime Geometry II: Curvature Dynamics of Prime Gaps
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.xxxxxxx.svg)](https://doi.org/10.5281/zenodo.xxxxxxx)
+[![DOI](https://zenodo.org/badge/1107934958.svg)](https://doi.org/10.5281/zenodo.17795904)
 
 This folder contains all materials for **Prime Geometry II**, the second paper in the Prime Geometry series.  
 PG2 introduces a geometric–dynamical perspective on the prime gap sequence, based on the discrete curvature
@@ -68,11 +68,3 @@ Cramér and permuted gaps scatter broadly and fail to reproduce this structure.
 - paper
 - code
 - figures
-
----
-
-## Citation
-
-If you use this material in derivative work, please cite the DOI associated with
-this release.
-[![DOI](https://zenodo.org/badge/1107934958.svg)](https://doi.org/10.5281/zenodo.17795904)
