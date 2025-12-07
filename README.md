@@ -11,14 +11,17 @@ local variation of prime gaps.
 
 Prime Geometry is organized into three developing components:
 
-- **Prime Geometry I: Foundations**  
+- **Prime Geometry I: Triangle**  
   (core identity, energy, curvature, invariants)
 
-- **Prime Geometry II: Dynamics and Phenomena**  
+- **Prime Geometry II: Curvature**  
   (empirical behavior, action distributions, comparisons to random models)
 
-- **Prime Geometry III: Applications and Analytical Directions**  
+- **Prime Geometry III: Recurrence**  
   (connections to Δα, geometric scaling, and the Prime–Zero Ratio)
+
+- **Prime Geometry X: Interpretation**  
+  (supplemental discussion and speculation)
 
 This repository collects the documents, code, and figures associated with each
 stage of the framework.

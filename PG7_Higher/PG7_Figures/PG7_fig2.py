@@ -1,0 +1,10 @@
+imb = chi[:-1] * (g[:-1] + g[1:])
+C = np.cumsum(imb)
+
+plt.figure(figsize=(10,5))
+plt.plot(C)
+plt.axhline(0, color='k', linestyle='--')
+plt.title("Cumulative Curvature Imbalance")
+plt.xlabel("n")
+plt.ylabel("C_n")
+plt.savefig("PG7_Fig2_curvature_balance.png", dpi=300)
