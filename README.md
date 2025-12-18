@@ -1,8 +1,9 @@
 ### Prime Geometry  
 # PG01_Construction
-# PG02_Findings
 
 PG01 contains speculation and the geometric development of ideas that eventually led to PG02.
+
+# PG02_Findings
 
 PG02 contains two documents: 
 
